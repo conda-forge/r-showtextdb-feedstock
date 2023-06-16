@@ -1,11 +1,11 @@
-About r-showtextdb
-==================
+About r-showtextdb-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-showtextdb-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=showtextdb
 
 Package license: Apache (>= 2.0)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-showtextdb-feedstock/blob/main/LICENSE.txt)
 
 Summary: Providing font files that can be used by the 'showtext' package.
 
